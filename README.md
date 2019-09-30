@@ -36,5 +36,5 @@ Press "F4": Draw the path with A* algorithm.
 
 ## Contributors:
 - Professor: Peter Chan
-- Jinfeng (Jeffery) Liu <liujinfeng1209@gmail.com
+- Jinfeng (Jeffery) Liu <liujinfeng1209@gmail.com>
 
